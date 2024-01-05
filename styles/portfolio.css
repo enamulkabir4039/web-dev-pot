@@ -3,6 +3,9 @@ body{
 }
 .text-primary{
     color: #fd6e0a;
+    border-radius: 5px;
+    background-color: #181818;
+   
 }
 .btn-primary{
     border-radius: 5px;
@@ -12,12 +15,17 @@ body{
     font-size: 20px;
     font-weight: 500;
     padding: 5px 20px;
+    /* display: flex; */
+
+   
 }
 
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* margin: 0 200px; */
+
 }
 
 .nav-title {
@@ -39,4 +47,20 @@ nav li {
 nav a{
     text-decoration: none;
     color: #474747;
+}
+.header{
+    background-color: #ffc8a3;
+}
+.banner{
+    padding: 20px 20px 20px 100px;
+    background-color: #eee7df;
+    display: flex;
+    align-items: center;
+    /* display: flex; */
+    align-items: center;
+}
+
+.banner .profile-picture{
+    width: 300px;
+    height: 300px;
 }
