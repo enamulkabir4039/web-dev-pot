@@ -53,14 +53,14 @@ nav a{
     /* margin: 0; */
 }
 .banner{
-    padding: 20px 20px 20px 100px;
+    padding: 20px 20px 0px 100px;
     background-color: #eee7df;
     display: flex;
     align-items: center;
     /* display: flex; */
     align-items: center;
     /* margin: 0; */
-    background-image: 
+    background-image: url("/images/rotate.jpg")
     /* background-repeat: no-repeat; */
     /* background-position: right; */
     
