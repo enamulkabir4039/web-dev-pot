@@ -60,18 +60,11 @@ nav a{
     /* display: flex; */
     align-items: center;
     /* margin: 0; */
-    background-image: url("/images/rotate.jpg")
-    /* background-repeat: no-repeat; */
-    /* background-position: right; */
+    background-image: url("/images/rotate.jpg");
+    
     
 }
-/* .banner-title{ */
-    /* color: #3c0d94e7; */
 
-/* } */
-/* .banner-text{ */
-    /* color: #3c0d94e7; */
-/* } */
 
 .banner .profile-picture{
     width: 300px;
