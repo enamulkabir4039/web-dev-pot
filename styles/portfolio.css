@@ -67,13 +67,14 @@ nav a{
 }
 .banner{
     padding: 20px 20px 0px 100px;
-    background-color: #eee7df;
-    display: flex;
-    align-items: center;
+    /* background-color: #eee7df; */
     /* display: flex; */
+    align-items: center;
+    display: flex;
     /* align-items: center; */
     /* margin: 0; */
-    background-image: url("/png/react.png");
+    background-image: url("/png/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5Ni0wMTYta3JvaXI5cWMuanBn.webp");
+    
     
 }
 
