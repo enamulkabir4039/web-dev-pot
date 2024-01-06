@@ -4,7 +4,7 @@ body{
 .text-primary{
     color: #fd6e0a;
     border-radius: 5px;
-    background-color: #181818;
+    background-color: #1a1919;
    
 }
 .btn-primary{
@@ -29,7 +29,7 @@ nav{
 }
 
 .nav-title {
-    color: #181818;
+    color: #252525;
     
     font-size: 45px;
    
@@ -50,6 +50,7 @@ nav a{
 }
 .header{
     background-color: #ffc8a3;
+    /* margin: 0; */
 }
 .banner{
     padding: 20px 20px 20px 100px;
@@ -58,9 +59,24 @@ nav a{
     align-items: center;
     /* display: flex; */
     align-items: center;
+    /* margin: 0; */
+    background-image: 
+    /* background-repeat: no-repeat; */
+    /* background-position: right; */
+    
 }
+/* .banner-title{ */
+    /* color: #3c0d94e7; */
+
+/* } */
+/* .banner-text{ */
+    /* color: #3c0d94e7; */
+/* } */
 
 .banner .profile-picture{
     width: 300px;
     height: 300px;
+    
+    
+      
 }
