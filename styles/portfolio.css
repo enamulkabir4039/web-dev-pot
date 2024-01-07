@@ -62,7 +62,7 @@ nav a{
     color: #474747;
 }
 .header{
-    /* background-color: #ffc8a3; */
+    background-color: #ffc8a3;
     /* margin: 0; */
 }
 .banner{
@@ -73,7 +73,7 @@ nav a{
     display: flex;
     align-items: center;
     margin: 0;
-    background-image: url("/png/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk5Ni0wMTYta3JvaXI5cWMuanBn.webp");
+    background-image: url("/images/rotate2.jpg");
     
     
 }
