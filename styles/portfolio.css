@@ -184,3 +184,21 @@ main section{
     margin-top: 60px;
 }
 
+/* footer stylea */
+
+footer{
+   display: flex;
+   background: #e4c0a4;
+   margin-top: 100px;
+   padding: 130px 200px;
+   
+}
+.social-link-icon{
+    height: 60px;
+    width: 60px;
+}
+.social-link-t{
+    height: 50px;
+    width: 50px;
+}
+
