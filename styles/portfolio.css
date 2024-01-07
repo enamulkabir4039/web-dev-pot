@@ -2,16 +2,16 @@ body{
     font-family: 'Merriweather', serif;
 }
 .text-primary{
-    color: #fd6e0a;
+    color: #220de2;
     border-radius: 5px;
     background-color: #1a1919;
    
 }
 .btn-primary{
     border-radius: 5px;
-    background: #fd6e0a;
+    background: #2600b1;
     border: 0;
-    color: white;
+    color: rgb(252, 252, 253);
     font-size: 20px;
     font-weight: 500;
     padding: 5px 20px;
@@ -42,7 +42,7 @@ nav{
 }
 
 .nav-title {
-    color: #252525;
+    color: #e4e2e2;
     
     font-size: 45px;
    
@@ -59,10 +59,10 @@ nav li {
 }
 nav a{
     text-decoration: none;
-    color: #474747;
+    color: #f0ebeb;
 }
 .header{
-    background-color: #ffc8a3;
+    background-color: #33477cf1;
     /* margin: 0; */
 }
 .banner{
@@ -104,7 +104,7 @@ main section{
 .about{
     padding: 130px;
     border-radius: 10px;
-    background: #f3bf9b;
+    background: #b6d6ce;
     margin: 130px 0;
     
 }
@@ -137,7 +137,7 @@ main section{
 .skill{
     padding: 30px;
     border-radius: 5px;
-    background: #e4dcd9;
+    background: #93bbb9;
     
 }
 .skill-image{
@@ -189,7 +189,7 @@ main section{
 footer{
    display: flex;
    gap: 100px;
-   background: #e4c0a4;
+   background: #86b1ad;
    margin-top: 100px;
    padding: 130px 200px;
    
