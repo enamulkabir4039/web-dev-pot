@@ -115,6 +115,29 @@ main{
 .about-info{
     text-align: center;
 }
+
+/* skill related style */
+
+
 #what-i-do-description{
     padding: 30px 150px;
 }
+.skills-container{
+    display: flex;
+    /* width: 10px; */
+    /* height: 10px; */
+    /* justify-content: space-between; */
+   
+}
+.skill{
+    padding: 30px;
+    gap: 20px;
+}
+.skill-image{
+    height: 100px;
+    width: 100px;
+}
+.skill-description{
+   
+}
+
